@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanya Buck @tbuck7520.
 - 👀 I’m interested in front end development.
-- 🌱 I’m currently learning with Angel Yu in a full stack course on Udemy.
+- 🌱 I’m currently learning with Angela Yu in a full stack course on Udemy.
 - 😶‍🌫️ I’m looking to collaborate on HTML, CSS, and Javascript.
 - 📫 You can reach me at tbuck7520@gmail.com.
 
